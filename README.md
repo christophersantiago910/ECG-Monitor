@@ -13,7 +13,7 @@ The system is battery powered using a 3.7 V lithium-ion cell and a battery shiel
 - OLED display to view the waveform
 - Wi-Fi connectivity using the ESP32
 - ECG/BPM visualization through Blynk
-- 
+  
 ---
 
 ## Power Architecture
