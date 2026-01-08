@@ -100,13 +100,13 @@ The system is powered by a 3.7 V lithium-ion battery connected to a battery shie
 ## Pictures
 
 ![Figure 1](pictures/IMG_3605.jpg)
-**Figure 1. ECG monitor circuit.**
+**Figure 1.** ECG monitor circuit.
 
 ![Figure 2](pictures/IMG_3602.jpg)
-**Figure 2. OLED displaying ECG waveform when electrodes connnected to body.**
+**Figure 2.** OLED displaying ECG waveform when electrodes connnected to body.
 
 ![Figure 3](pictures/IMG_3606.png)
-**Figure 3. Blynk dashboard. ESP32 not connected.**
+**Figure 3.** Blynk dashboard. ESP32 not connected.
 
 **Screenshot of Blynk dashboard when ESP32 is online will be shown soon. Currently fixing inaccuracies in the display of the waveform.**
 
